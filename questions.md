@@ -1,6 +1,6 @@
 # Question LLD 
 
-[Question](https://docs.google.com/document/d/1bXsVN-7f31IGFoa6pTUJcEfbZy69zcVsPwJtCW1LEUQ/edit/?target=_blank)
+[Question](https://docs.google.com/document/d/1bXsVN-7f31IGFoa6pTUJcEfbZy69zcVsPwJtCW1LEUQ/edit)
 
 ## Questions faced
 1. What if you add more than one copy for a book
