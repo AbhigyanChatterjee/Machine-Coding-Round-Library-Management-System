@@ -1,5 +1,7 @@
 # Question LLD 
-<a href="https://docs.google.com/document/d/1bXsVN-7f31IGFoa6pTUJcEfbZy69zcVsPwJtCW1LEUQ/edit" target="_blank">Question</a>
+
+[Question](https://docs.google.com/document/d/1bXsVN-7f31IGFoa6pTUJcEfbZy69zcVsPwJtCW1LEUQ/edit){:target="_blank" rel="noopener"}
+
 ## Questions faced
 1. What if you add more than one copy for a book
 2. Why do you have the issue date in service(Which I was wrong about I should have taken up the issueDate in the book class. That wasn't supposed to be on service).
